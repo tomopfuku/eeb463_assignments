@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="154.20793mm"
+   height="139.93314mm"
+   viewBox="0 0 154.20793 139.93314"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="phylogeny_model_bds_extinction_t.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3001468"
+     inkscape:cx="247.27977"
+     inkscape:cy="275.35352"
+     inkscape:window-width="1920"
+     inkscape:window-height="1094"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-23.985818,-73.755265)">
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.600001;-inkscape-stroke:none;stop-color:#000000"
+       x="76.148102"
+       y="86.341362"
+       id="text236-3-8"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;fill:#000000;stroke:none;stroke-width:0.600001"
+         x="76.148102"
+         y="86.341362"
+         id="tspan1352-3-1">P(extinction at time <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan2045">t</tspan>)</tspan></text>
+    <g
+       id="g600"
+       transform="translate(-0.27243439)">
+      <g
+         id="g526"
+         transform="rotate(-90,89.623591,146.74238)">
+        <rect
+           style="fill:#cccccc;stroke:none;stroke-width:0.600001;-inkscape-stroke:none;stop-color:#000000"
+           id="rect448"
+           width="108.71555"
+           height="9.0295305"
+           x="22.677567"
+           y="109.45956" />
+        <rect
+           style="fill:#666666;stroke:none;stroke-width:0.486633;-inkscape-stroke:none;stop-color:#000000"
+           id="rect448-8"
+           width="71.513885"
+           height="9.0295305"
+           x="39.472496"
+           y="109.45956" />
+      </g>
+    </g>
+    <g
+       id="g591"
+       transform="translate(0,-17.284027)">
+      <rect
+         style="fill:#cccccc;stroke:none;stroke-width:0.46447;-inkscape-stroke:none;stop-color:#000000"
+         id="rect448-2"
+         width="65.148323"
+         height="9.0295305"
+         x="-191.90475"
+         y="80.150848"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:#666666;stroke:none;stroke-width:0.410702;-inkscape-stroke:none;stop-color:#000000"
+         id="rect448-8-0"
+         width="50.93795"
+         height="9.0295305"
+         x="-180.5172"
+         y="80.150848"
+         transform="rotate(-90)" />
+    </g>
+    <g
+       id="g595"
+       transform="translate(-5.5498437,-13.00756)">
+      <rect
+         style="fill:#cccccc;stroke:none;stroke-width:0.46447;-inkscape-stroke:none;stop-color:#000000"
+         id="rect448-2-3"
+         width="65.148323"
+         height="9.0295305"
+         x="-151.91115"
+         y="29.535662"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:#666666;stroke:none;stroke-width:0.410702;-inkscape-stroke:none;stop-color:#000000"
+         id="rect448-8-0-4"
+         width="50.93795"
+         height="9.0295305"
+         x="-148.46097"
+         y="29.535662"
+         transform="rotate(-90)" />
+    </g>
+    <path
+       style="fill:#666666;stroke:#000000;stroke-width:0.600001;-inkscape-stroke:none;stop-color:#000000"
+       d="m 33.015348,138.90359 h 19.052984 m 28.082516,35.71714 H 61.097864"
+       id="path1333" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.524997;-inkscape-stroke:none;stop-color:#000000;marker-end:url(#TriangleStart)"
+       d="m 63.277953,88.45851 -4.06484,14.15347"
+       id="path5006" />
+  </g>
+</svg>
