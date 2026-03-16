@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="154.20793mm"
+   height="139.93314mm"
+   viewBox="0 0 154.20793 139.93314"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="phylogeny_model_bds_n_desc.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3001468"
+     inkscape:cx="247.27977"
+     inkscape:cy="275.35352"
+     inkscape:window-width="1920"
+     inkscape:window-height="1148"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-23.985818,-73.755265)">
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.600001;-inkscape-stroke:none;stop-color:#000000"
+       x="108.33017"
+       y="83.030624"
+       id="text236-3"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;fill:#000000;stroke:none;stroke-width:0.600001"
+         x="108.33017"
+         y="83.030624"
+         id="tspan1352-3">P(2 obs. descendents | <tspan
+   style="font-style:italic"
+   id="tspan1">t</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.600001;-inkscape-stroke:none;stop-color:#000000"
+       x="69.483772"
+       y="189.58749"
+       id="text236-3-3"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;fill:#000000;stroke:none;stroke-width:0.600001"
+         x="69.483772"
+         y="189.58749"
+         id="tspan1352-3-6"> <tspan
+   style="font-style:italic"
+   id="tspan1-7">t</tspan></tspan></text>
+    <g
+       id="g600"
+       transform="translate(-0.27243439)">
+      <g
+         id="g526"
+         transform="rotate(-90,89.623591,146.74238)">
+        <rect
+           style="fill:#cccccc;stroke:none;stroke-width:0.600001;-inkscape-stroke:none;stop-color:#000000"
+           id="rect448"
+           width="108.71555"
+           height="9.0295305"
+           x="22.677567"
+           y="109.45956" />
+        <rect
+           style="fill:#666666;stroke:none;stroke-width:0.486633;-inkscape-stroke:none;stop-color:#000000"
+           id="rect448-8"
+           width="71.513885"
+           height="9.0295305"
+           x="39.472496"
+           y="109.45956" />
+      </g>
+    </g>
+    <g
+       id="g591"
+       transform="translate(0,-17.284027)">
+      <rect
+         style="fill:#cccccc;stroke:none;stroke-width:0.46447;-inkscape-stroke:none;stop-color:#000000"
+         id="rect448-2"
+         width="65.148323"
+         height="9.0295305"
+         x="-191.90475"
+         y="80.150848"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:#666666;stroke:none;stroke-width:0.410702;-inkscape-stroke:none;stop-color:#000000"
+         id="rect448-8-0"
+         width="50.93795"
+         height="9.0295305"
+         x="-180.5172"
+         y="80.150848"
+         transform="rotate(-90)" />
+    </g>
+    <g
+       id="g595"
+       transform="translate(-5.5498437,-13.00756)">
+      <rect
+         style="fill:#cccccc;stroke:none;stroke-width:0.46447;-inkscape-stroke:none;stop-color:#000000"
+         id="rect448-2-3"
+         width="65.148323"
+         height="9.0295305"
+         x="-151.91115"
+         y="29.535662"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:#666666;stroke:none;stroke-width:0.410702;-inkscape-stroke:none;stop-color:#000000"
+         id="rect448-8-0-4"
+         width="50.93795"
+         height="9.0295305"
+         x="-148.46097"
+         y="29.535662"
+         transform="rotate(-90)" />
+    </g>
+    <path
+       style="fill:#666666;stroke:#000000;stroke-width:0.600001;-inkscape-stroke:none;stop-color:#000000"
+       d="m 33.015348,138.90359 h 19.052984 m 28.082516,35.71714 H 61.097864"
+       id="path1333" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.600001;-inkscape-stroke:none;stop-color:#000000;marker-end:url(#TriangleStart)"
+       d="M 48.073688,87.593446 37.213491,104.97285"
+       id="path3793" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.600001;-inkscape-stroke:none;stop-color:#000000;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleStart);stop-opacity:1"
+       d="m 73.233462,87.434466 6.917386,17.538384"
+       id="path4375" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="m 61.783,105.8904 h 4.920631 v 107.08214 h -3.554939"
+       id="path1" />
+  </g>
+</svg>
